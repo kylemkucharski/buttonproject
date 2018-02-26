@@ -1,0 +1,38 @@
+body {
+  background: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #000000;
+  text-align: center;
+  font-size: 48px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  color: #000000;
+  text-align: left;
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: 000000;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 150px;
+  margin-left: 100px;
+}
+
+.coney {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: 000000;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 150px;
+  margin-left: 100px;
+}
